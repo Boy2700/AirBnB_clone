@@ -9,7 +9,7 @@ Welcome to the AirBnB clone project! (The ALX B&B)
 
   
 
-Welcome to the AirBnB clone project! (The ALX B&B)
+
 
   
 
